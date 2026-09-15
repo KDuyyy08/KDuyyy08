@@ -31,14 +31,3 @@
   - *Chức năng chính:* Quản lý sinh viên, đăng ký/hủy lớp tín chỉ thời gian thực, in danh sách theo Alphabet, quản lý điểm và lọc dữ liệu với giao diện chống nhấp nháy (Anti-flicker).
 
 ---
-
-### 📬 Connect With Me
-
-<p align="left">
-  <a href="mailto:pkduy999106@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-<p align="center">⭐️ From KDuy with passion for coding ⭐️</p>
