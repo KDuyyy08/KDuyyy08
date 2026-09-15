@@ -32,14 +32,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KDuyyy08&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
 ### 📬 Connect With Me
 
 <p align="left">
